@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/rankora-logo.png" alt="Rankora Digital Solutions Logo" width="600px">
+  <img src="./fb86b3a8-f18a-49aa-bf17-16342229d541.png" alt="Rankora Digital Solutions Logo" width="400px">
 
   <br><br>
 
